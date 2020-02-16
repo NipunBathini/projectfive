@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/NipunBathini/projectfive.svg?style=svg)](https://circleci.com/gh/NipunBathini/projectfive)
 
 ## Project Overview
 
