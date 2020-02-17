@@ -6,7 +6,7 @@
 
 //list pods
 NAME                                 READY   STATUS    RESTARTS   AGE
-projectfive                          1/1     Running   0         52s
+projectfive                          1/1     Running   0          52s 
 
 //forwarsds container
 Forwarding from 127.0.0.1:8000 -> 80
